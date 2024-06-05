@@ -1,0 +1,5 @@
+fastapi==0.95.0
+uvicorn==0.21.1
+qrcode[pil]==7.4.2
+pytest==7.3.2
+httpx==0.24.0
